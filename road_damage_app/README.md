@@ -23,8 +23,8 @@ Ensure you have the following installed:
 
 ## 🔹 1. Clone the Repository
 ```bash
-git clone https://github.com/Ni1esh-Yadav/flutter-road-damage-webview.git
-cd flutter-road-damage-webview
+https://github.com/Ni1esh-Yadav/Road-Damage-flutter.git
+cd Road-Damage-flutter
 ```
 
 ---
