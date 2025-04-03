@@ -24,7 +24,7 @@ Ensure you have the following installed:
 ## 🔹 1. Clone the Repository
 ```bash
 https://github.com/Ni1esh-Yadav/Road-Damage-flutter.git
-cd Road-Damage-flutter
+cd Road-Damage-flutter than cd road_damage_app
 ```
 
 ---
